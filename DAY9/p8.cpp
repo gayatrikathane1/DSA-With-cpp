@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    //reverse temple
     int n;
     cout << "Enter a number: ";
     cin >> n;

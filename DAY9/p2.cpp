@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    //half pyramid pattern
     int n;
     cout << "Enter a number: ";
     cin >> n;

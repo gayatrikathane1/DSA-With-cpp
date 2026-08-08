@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    //like temple pattern
     int n;
     cout << "Enter a number: ";
     cin >> n;

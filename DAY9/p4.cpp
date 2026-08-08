@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+    //half pyramid but number are repited
     int n;
     cout << "Enter a number: ";
     cin >> n;
